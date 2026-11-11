@@ -1,0 +1,14 @@
+{
+  "name": "TextAdventure",
+  "version": "0.1.0",
+  "type": "exe",
+  "dependencies": [
+    "Udrian@TypeOCore-1.0.0"
+  ],
+  "project": [
+    {
+      "Name": "TextAdventure",
+      "type": ""
+    }
+  ]
+}

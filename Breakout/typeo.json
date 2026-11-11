@@ -1,0 +1,17 @@
+{
+  "name": "Breakout",
+  "version": "0.1.0",
+  "type": "exe",
+  "dependencies": [
+    "Udrian@TypeOCore-1.1.0",
+    "Udrian@TypeOBasic2d-1.0.1",
+    "Udrian@TypeODesktop-1.1.0",
+    "Udrian@TypeOTK-1.0.0"
+  ],
+  "project": [
+    {
+      "Name": "Breakout",
+      "type": ""
+    }
+  ]
+}

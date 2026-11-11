@@ -54,4 +54,14 @@ CodeCoverage/
 # NUnit
 *.VisualState.xml
 TestResult.xml
+
+# TypeO
+typeo_override.json
+*.sln
+*.slnx
+*.csproj
 nunit-*.xml
+*.vs
+*/TypeO/build/*
+*/TypeO/cache/*
+*/TypeO/editor/*
